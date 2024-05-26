@@ -50,7 +50,7 @@ The application is deployed using Streamlit, providing an interactive web interf
 ![Demo Image](Demo_image.png)
 
 ## Demo Video
-![Demo Video](Demo_video.mp4)
+https://github.com/Vishu-Aasliya/Audio-Emotion-Classifier/assets/97456648/7acc2164-6876-4ea7-8820-90250791a1ca
 
 ## Conclusion
 This audio emotion classifier demonstrates the integration of signal processing, deep learning, and deployment technologies to create a robust system for real-time emotion recognition from audio signals.
